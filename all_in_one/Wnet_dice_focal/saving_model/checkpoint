@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Brain_Tumour_segmentation/all_in_one/Wnet_dice_focal/saving_model/model.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Brain_Tumour_segmentation/all_in_one/Wnet_dice_focal/saving_model/model.ckpt"

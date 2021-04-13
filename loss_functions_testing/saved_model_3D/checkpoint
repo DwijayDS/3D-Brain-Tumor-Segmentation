@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Brain_Tumour_segmentation/loss_functions_testing/saved_model_3D/model.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Brain_Tumour_segmentation/loss_functions_testing/saved_model_3D/model.ckpt"
